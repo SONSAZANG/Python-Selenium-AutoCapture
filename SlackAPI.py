@@ -61,7 +61,7 @@ class SlackAPI:
         )
         return result
 
-token = "xoxb-3675368677831-3702755803953-QxZJ1fEhelyeAbEIRb2ecdWu"
+token = "슬랙 토큰 입력"
 slack = SlackAPI(token)
 
 channel_name = "todayqt"
